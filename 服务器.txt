@@ -1,0 +1,10 @@
+[3389]
+ip	:121.196.63.12
+port	:47439
+username	:administrator
+password	:c0de_server@2020
+
+[vpn]
+server	:118.178.127.101
+username	:net_manager
+password	:p4ssw0rd
